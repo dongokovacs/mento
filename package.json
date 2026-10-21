@@ -1,0 +1,11 @@
+{
+  "name": "kis-mento-iskola",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elsősegély-tanuló webalkalmazás alsó tagozatosoknak",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180">
+<style>.o{stroke:#2D3047;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}.n{fill:none}.sk{fill:#F9C9A6}.bl{fill:#5B8DEF}.or{fill:#FF8A5B}.nv{fill:#3D4B7A}.wh{fill:#fff}.rd{fill:#E63946}.gr{fill:#2BB673}.hr{fill:#6B4226}.lo{fill:none;stroke:#2D3047;stroke-width:15;stroke-linecap:round;stroke-linejoin:round}.li{fill:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.t{font-family:Nunito,Arial,sans-serif;font-weight:800;fill:#2D3047}.ar{fill:none;stroke:#2D3047;stroke-width:4;stroke-linecap:round}.no{fill:none;stroke:#E63946;stroke-width:6;stroke-linecap:round}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2D3047"/></marker></defs>
+<rect width="240" height="180" rx="24" fill="#E2F4F1"/>
+<rect class="o sk" x="40" y="96" width="140" height="40" rx="20"/>
+<ellipse class="o sk" cx="184" cy="96" rx="8" ry="12"/>
+<ellipse class="o sk" cx="192" cy="116" rx="24" ry="22"/>
+<rect class="o bl" x="-12" y="86" width="64" height="60" rx="10"/>
+<rect class="o" x="98" y="64" width="18" height="18" rx="4" fill="#BDE7FF" transform="rotate(-12 107 73)"/>
+<rect class="o" x="120" y="60" width="18" height="18" rx="4" fill="#BDE7FF" transform="rotate(10 129 69)"/>
+<rect class="o wh" x="84" y="78" width="70" height="44" rx="8"/>
+<path d="M92 92h54M92 104h54" stroke="#D8DEE6" stroke-width="3"/>
+<g stroke="#4D9DE0" stroke-width="3" stroke-linecap="round"><path d="M200 26v24M188 38h24M191 29l18 18M209 29l-18 18"/><path d="M40 30v20M30 40h20M33 33l14 14M47 33l-14 14"/></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180">
+<style>.o{stroke:#2D3047;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}.n{fill:none}.sk{fill:#F9C9A6}.bl{fill:#5B8DEF}.or{fill:#FF8A5B}.nv{fill:#3D4B7A}.wh{fill:#fff}.rd{fill:#E63946}.gr{fill:#2BB673}.hr{fill:#6B4226}.lo{fill:none;stroke:#2D3047;stroke-width:15;stroke-linecap:round;stroke-linejoin:round}.li{fill:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.t{font-family:Nunito,Arial,sans-serif;font-weight:800;fill:#2D3047}.ar{fill:none;stroke:#2D3047;stroke-width:4;stroke-linecap:round}.no{fill:none;stroke:#E63946;stroke-width:6;stroke-linecap:round}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2D3047"/></marker></defs>
+<rect width="240" height="180" rx="24" fill="#F0EBFF"/>
+<line x1="12" y1="150" x2="228" y2="150" stroke="#C8BEDF" stroke-width="4" stroke-linecap="round"/>
+<rect class="o" x="30" y="60" width="18" height="90" rx="4" fill="#8B5A2B"/>
+<circle class="o" cx="40" cy="48" r="32" fill="#5CBF6B"/><circle class="o" cx="66" cy="64" r="20" fill="#5CBF6B"/>
+<rect class="o nv" x="176" y="126" width="48" height="20" rx="10"/>
+<rect class="o bl" x="112" y="120" width="70" height="28" rx="13"/>
+<circle class="o sk" cx="98" cy="132" r="15"/>
+<path class="o n" d="M92 128q3 3 6 0M101 130q3 3 6 0"/>
+<path d="M100 108l4-8 4 8 4-8 4 8" fill="none" stroke="#E63946" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="o" d="M184 20L214 72H154z" fill="#FFC93C"/>
+<text class="t" x="184" y="64" text-anchor="middle" font-size="30" style="font-weight:900">!</text>
+</svg>

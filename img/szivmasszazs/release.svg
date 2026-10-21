@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180">
+<style>.o{stroke:#2D3047;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}.n{fill:none}.sk{fill:#F9C9A6}.bl{fill:#5B8DEF}.or{fill:#FF8A5B}.nv{fill:#3D4B7A}.wh{fill:#fff}.rd{fill:#E63946}.gr{fill:#2BB673}.hr{fill:#6B4226}.lo{fill:none;stroke:#2D3047;stroke-width:15;stroke-linecap:round;stroke-linejoin:round}.li{fill:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.t{font-family:Nunito,Arial,sans-serif;font-weight:800;fill:#2D3047}.ar{fill:none;stroke:#2D3047;stroke-width:4;stroke-linecap:round}.no{fill:none;stroke:#E63946;stroke-width:6;stroke-linecap:round}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2D3047"/></marker></defs>
+<rect width="240" height="180" rx="24" fill="#FFF0DF"/>
+<line x1="12" y1="158" x2="228" y2="158" stroke="#D8C7B3" stroke-width="4" stroke-linecap="round"/>
+<rect class="o bl" x="30" y="114" width="190" height="42" rx="20"/>
+<path class="lo" d="M112 6L116 100M128 6L124 100"/><path class="li" stroke="#FF8A5B" d="M112 6L116 100M128 6L124 100"/>
+<ellipse class="o sk" cx="120" cy="106" rx="16" ry="9"/>
+<path class="ar" d="M66 50V96" marker-end="url(#a)"/>
+<text class="t" x="66" y="40" text-anchor="middle" font-size="16">LE</text>
+<path class="ar" d="M174 96V50" marker-end="url(#a)"/>
+<text class="t" x="174" y="40" text-anchor="middle" font-size="16">FEL</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180">
+<style>.o{stroke:#2D3047;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}.n{fill:none}.sk{fill:#F9C9A6}.bl{fill:#5B8DEF}.or{fill:#FF8A5B}.nv{fill:#3D4B7A}.wh{fill:#fff}.rd{fill:#E63946}.gr{fill:#2BB673}.hr{fill:#6B4226}.lo{fill:none;stroke:#2D3047;stroke-width:15;stroke-linecap:round;stroke-linejoin:round}.li{fill:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.t{font-family:Nunito,Arial,sans-serif;font-weight:800;fill:#2D3047}.ar{fill:none;stroke:#2D3047;stroke-width:4;stroke-linecap:round}.no{fill:none;stroke:#E63946;stroke-width:6;stroke-linecap:round}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2D3047"/></marker></defs>
+<rect width="240" height="180" rx="24" fill="#E2F4F1"/>
+<rect class="o sk" x="40" y="96" width="140" height="40" rx="20"/>
+<ellipse class="o sk" cx="184" cy="96" rx="8" ry="12"/>
+<ellipse class="o sk" cx="192" cy="116" rx="24" ry="22"/>
+<rect class="o bl" x="-12" y="86" width="64" height="60" rx="10"/>
+<path class="lo" d="M206 96L250 80M206 136L250 150"/><path class="li" stroke="#FF8A5B" d="M206 96L250 80M206 136L250 150"/>
+<circle class="o sk" cx="204" cy="100" r="10"/><circle class="o sk" cx="204" cy="132" r="10"/>
+<path class="ar" d="M120 50H200" marker-end="url(#a)"/>
+<path class="ar" d="M120 166H200" marker-end="url(#a)"/>
+</svg>

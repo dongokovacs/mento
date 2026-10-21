@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180">
+<style>.o{stroke:#2D3047;stroke-width:3;stroke-linejoin:round;stroke-linecap:round}.n{fill:none}.sk{fill:#F9C9A6}.bl{fill:#5B8DEF}.or{fill:#FF8A5B}.nv{fill:#3D4B7A}.wh{fill:#fff}.rd{fill:#E63946}.gr{fill:#2BB673}.hr{fill:#6B4226}.lo{fill:none;stroke:#2D3047;stroke-width:15;stroke-linecap:round;stroke-linejoin:round}.li{fill:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.t{font-family:Nunito,Arial,sans-serif;font-weight:800;fill:#2D3047}.ar{fill:none;stroke:#2D3047;stroke-width:4;stroke-linecap:round}.no{fill:none;stroke:#E63946;stroke-width:6;stroke-linecap:round}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2D3047"/></marker></defs>
+<rect width="240" height="180" rx="24" fill="#E6F7EE"/>
+<path d="M95 42V26h50v16" fill="none" stroke="#2D3047" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="o gr" x="55" y="40" width="130" height="114" rx="18"/>
+<text class="t" x="120" y="66" text-anchor="middle" font-size="18" style="fill:#fff;font-weight:900">AED</text>
+<path class="o wh" d="M120 140c-32-20-38-42-24-52c10-7 20 0 24 7c4-7 14-14 24-7c14 10 8 32-24 52z"/>
+<path class="o" d="M124 92l-12 22h10l-6 18 18-26h-10l6-14z" fill="#FFC93C"/>
+<path d="M198 80q10 15 0 30M210 72q16 23 0 46" fill="none" stroke="#2D3047" stroke-width="4" stroke-linecap="round"/>
+</svg>
